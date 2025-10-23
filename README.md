@@ -8,8 +8,7 @@ BiteBox is a complete food delivery platform that connects customers, restaurant
 
 ## 🌐 Live Demo
 
-**Frontend:** [Live Demo Link](https://your-frontend-url.com)  
-**Backend API:** [API Documentation](https://your-api-url.com)
+**Frontend:** [Live Demo Link](https://bitebox-8gfl.onrender.com) 
 
 ## 💡 Motivation / Problem Statement
 
