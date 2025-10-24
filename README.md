@@ -1,6 +1,6 @@
 # 🍔 BiteBox - Full Stack Food Delivery App
 
-A comprehensive MERN stack food delivery application with real-time order tracking, Google OAuth authentication, Razorpay payment integration, and live map tracking for delivery management.
+A comprehensive MERN stack food delivery application with real-time order tracking, Google Auth authentication, Razorpay payment integration, and live map tracking for delivery management.
 
 ## 📝 Short Description
 
